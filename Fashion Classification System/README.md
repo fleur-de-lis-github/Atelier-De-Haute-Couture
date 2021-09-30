@@ -8,7 +8,7 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 ## Tools Used:
 Fashion MNIST Classification uses a number of open source projects to work properly:
 
-numpy - NumPy is the fundamental package for scientific computing with Python
-pytorch - An open source deep learning platform that provides a seamless path from research prototyping to production deployment
-matplotlib - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
-torchvision - The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision
+- numpy - NumPy is the fundamental package for scientific computing with Python
+- pytorch - An open source deep learning platform that provides a seamless path from research prototyping to production deployment
+- matplotlib - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
+- torchvision - The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision
