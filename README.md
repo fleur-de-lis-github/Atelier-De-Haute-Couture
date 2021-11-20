@@ -3,7 +3,6 @@
 ## Problem Scenario
 ## Business Client
 ![ChessUrl](https://images.squarespace-cdn.com/content/v1/5d48ece5c9b54700015ba784/1603698100793-GRLKR2D44TY660KTLMNB/Milan+Fashion+App+UI+Kit-web-15.gif"chess")
-![ChessUrl](https://scitechdaily.com/images/Asteroid-Strike-Animation.gif"chess")
 
 
 ## Project Workflow
