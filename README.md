@@ -10,29 +10,30 @@ Brands have had no choice but ramp up their digital offerings fast.
 
 ## Our Approach
 ```diff
-@@ One of the most challenging multi-classes classification problems is fashion classification  @@
+ One of the most challenging multi-classes classification problems is fashion classification 
 in which labels that characterize the clothes type are assigned to the images.
 
-The difficulty of this multi-classes fashion classification problem is due to the richness of the clothes
-properties and the high depth of clothes categorization as well. This complicated depth makes different labels/classes to have similar features. 
+@@ The difficulty of this multi-classes fashion classification problem is due to the richness of the clothes @@
+@@ properties and the high depth of clothes categorization as well. This complicated depth makes different labels/classes to have similar features. @@
 
 This project tries to enhance the performance of the fashion classification problem on the Fashion-MNIST Dataset 
 , which contains 70,000 images (each image is labeled from the 10 categories shown in Figure 1: T-shirt/top, Trousers,
 Pullover, Dress, Coat, Sandals, Shirt, Sneaker, Bag and Ankle boot).
 
-CNN can learn complex, high-dimensional, non-linear mappings from a very large number of data (images). Moreover,
-CNN gives an excellent classification average for images . The main advantages of CNN are that it extracts the salient
-features that are never changed, and it is invariant to shifting, scaling and distortions of input data (images).
+@@ CNN can learn complex, high-dimensional, non-linear mappings from a very large number of data (images). Moreover,  @@
+@@ CNN gives an excellent classification average for images . The main advantages of CNN are that it extracts the salient  @@
+@@ features that are never changed, and it is invariant to shifting, scaling and distortions of input data (images).  @@
  
 ```
 
 ## Business Client
 ![ChessUrl](https://images.squarespace-cdn.com/content/v1/5d48ece5c9b54700015ba784/1603698100793-GRLKR2D44TY660KTLMNB/Milan+Fashion+App+UI+Kit-web-15.gif"chess")
 
->Jonathan Siboni, of Paris-based data intelligence firm Luxurynsight, estimates the overall share of global online fashion sales has doubled to 22 per cent since March. And >that’s just beginning. With Chinese consumers, who are forecast to account for nearly half of all luxury goods purchases by 2025, turning increasingly to the likes of Alibaba >or brands’ own website because they cannot travel overseas to buy as they used to, the global figure is likely to hit 25 per cent by 2022.
+```diff
+- Jonathan Siboni, of Paris-based data intelligence firm Luxurynsight, estimates the overall share of global online fashion sales has doubled to 22 per cent since March. And - -- that’s just beginning. With Chinese consumers, who are forecast to account for nearly half of all luxury goods purchases by 2025, turning increasingly to the likes of Alibaba - or brands’ own website because they cannot travel overseas to buy as they used to, the global figure is likely to hit 25 per cent by 2022.
 
->The Kering conglomerate, which includes Gucci, Saint Laurent and Bottega Veneta, has seen its e-commerce revenue more than double year-on-year. The market value of Farfetch has >risen more than four fold since the start of the year to reach $18.6bn.
-
+- The Kering conglomerate, which includes Gucci, Saint Laurent and Bottega Veneta, has seen its e-commerce revenue more than double year-on-year. The market value of Farfetch -  - has >risen more than four fold since the start of the year to reach $18.6bn.
+```
 
 ## Project Workflow
 :pushpin:- Import Libraries <br>
