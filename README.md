@@ -30,9 +30,13 @@ Pullover, Dress, Coat, Sandals, Shirt, Sneaker, Bag and Ankle boot).
 ![ChessUrl](https://images.squarespace-cdn.com/content/v1/5d48ece5c9b54700015ba784/1603698100793-GRLKR2D44TY660KTLMNB/Milan+Fashion+App+UI+Kit-web-15.gif"chess")
 
 ```diff
-- Jonathan Siboni, of Paris-based data intelligence firm Luxurynsight, estimates the overall share of global online fashion sales has doubled to 22 per cent since March. And - -- that’s just beginning. With Chinese consumers, who are forecast to account for nearly half of all luxury goods purchases by 2025, turning increasingly to the likes of Alibaba - or brands’ own website because they cannot travel overseas to buy as they used to, the global figure is likely to hit 25 per cent by 2022.
+- Jonathan Siboni, of Paris-based data intelligence firm Luxurynsight, estimates the overall share of global online fashion sales
+- has doubled to 22 per cent since March. And - -- that’s just beginning. With Chinese consumers, who are forecast to account for nearly
+- half of all luxury goods purchases by 2025, turning increasingly to the likes of Alibaba - or brands’ own website because they cannot
+- travel overseas to buy as they used to, the global figure is likely to hit 25 per cent by 2022.
 
-- The Kering conglomerate, which includes Gucci, Saint Laurent and Bottega Veneta, has seen its e-commerce revenue more than double year-on-year. The market value of Farfetch -  - has >risen more than four fold since the start of the year to reach $18.6bn.
+- The Kering conglomerate, which includes Gucci, Saint Laurent and Bottega Veneta, has seen its e-commerce revenue more than double year-on-year.
+- The market value of Farfetch -  - has >risen more than four fold since the start of the year to reach $18.6bn.
 ```
 
 ## Project Workflow
