@@ -10,14 +10,20 @@ Reason that drove traditional luxury brands to stay away from eCommerce has been
 
 ## Our Approach
 ```diff
-One of the most challenging multi-classes classification problems is fashion classification in which labels that characterize the clothes type are assigned to the images.
+@@ One of the most challenging multi-classes classification problems is fashion classification
+in which labels that characterize the clothes type are assigned to the images.
 
-The difficulty of this multi-classes fashion classification problem is due to the richness of the clothes properties and the high depth of clothes categorization as well. This complicated depth makes different labels/classes to have similar features. 
+The difficulty of this multi-classes fashion classification problem is due to the richness of the clothes
+properties and the high depth of clothes categorization as well. This complicated depth makes different labels/classes to have similar features. 
 
-This project tries to enhance the performance of the fashion classification problem on the Fashion-MNIST Dataset , which contains 70,000 images (each image is labeled from the 10 categories shown in Figure 1: T-shirt/top, Trousers, Pullover, Dress, Coat, Sandals, Shirt, Sneaker, Bag and Ankle boot).
+This project tries to enhance the performance of the fashion classification problem on the Fashion-MNIST Dataset 
+, which contains 70,000 images (each image is labeled from the 10 categories shown in Figure 1: T-shirt/top, Trousers,
+Pullover, Dress, Coat, Sandals, Shirt, Sneaker, Bag and Ankle boot).
 
-CNN can learn complex, high-dimensional, non-linear mappings from a very large number of data (images). Moreover, CNN gives an excellent classification average for images . The main advantages of CNN are that it extracts the salient features that are never changed, and it is invariant to shifting, scaling and distortions of input data (images).
-@@ text in purple (and bold)@@
+CNN can learn complex, high-dimensional, non-linear mappings from a very large number of data (images). Moreover,
+CNN gives an excellent classification average for images . The main advantages of CNN are that it extracts the salient
+features that are never changed, and it is invariant to shifting, scaling and distortions of input data (images). @@
+ 
 ```
 
 ## Business Client
@@ -29,15 +35,15 @@ CNN can learn complex, high-dimensional, non-linear mappings from a very large n
 
 
 ## Project Workflow
-:pushpin:- Import Libraries
-:pushpin:- Extract Dataset
-:pushpin:- Feature Labelling
-:pushpin:- Data Visualization
-:pushpin:- Distribution of Labels
-:pushpin:- Split the Data
-:pushpin:- Reshaping the Images
-:pushpin:- Normalization
-:pushpin:- Build and Train the Model
+:pushpin:- Import Libraries <br>
+:pushpin:- Extract Dataset <br>
+:pushpin:- Feature Labelling <br>
+:pushpin:- Data Visualization <br>
+:pushpin:- Distribution of Labels <br>
+:pushpin:- Split the Data <br>
+:pushpin:- Reshaping the Images <br>
+:pushpin:- Normalization <br>
+:pushpin:- Build and Train the Model <br>
 :pushpin:- Evaluate and Visualize the Predictions
 
 ## Data Summary
