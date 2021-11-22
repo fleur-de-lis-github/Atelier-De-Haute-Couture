@@ -6,11 +6,11 @@ Covid-19 has fast forwarded fashion into a digital future that it had been reluc
 
 Brands have had no choice but ramp up their digital offerings fast.
 
-Reason that drove traditional luxury brands to stay away from eCommerce has been the perceived lack of control quality of the sales environment and pricing, on third party multibrand online pureplay platforms in particular. In order to maintain their high profile clientelle, these fashion websites must have low margin error when it comes to clothes fit and apparel categorization.
+`Reason that drove traditional luxury brands to stay away from eCommerce has been the perceived lack of control quality of the sales environment and pricing, on third party multibrand online pureplay platforms in particular. In order to maintain their high profile clientelle, these fashion websites must have low margin error when it comes to clothes fit and apparel categorization.`
 
 ## Our Approach
 ```diff
-@@ One of the most challenging multi-classes classification problems is fashion classification
+@@ One of the most challenging multi-classes classification problems is fashion classification  @@
 in which labels that characterize the clothes type are assigned to the images.
 
 The difficulty of this multi-classes fashion classification problem is due to the richness of the clothes
@@ -22,7 +22,7 @@ Pullover, Dress, Coat, Sandals, Shirt, Sneaker, Bag and Ankle boot).
 
 CNN can learn complex, high-dimensional, non-linear mappings from a very large number of data (images). Moreover,
 CNN gives an excellent classification average for images . The main advantages of CNN are that it extracts the salient
-features that are never changed, and it is invariant to shifting, scaling and distortions of input data (images). @@
+features that are never changed, and it is invariant to shifting, scaling and distortions of input data (images).
  
 ```
 
